@@ -1,6 +1,6 @@
 # React Suspense Demo
 
-A simple React app demonstrates Suspense by fetching random cat facts from an API.
+A simple React app that demonstrates Suspense by fetching random cat facts from an API.
 
 This demo goes along with an upcoming article on [Prismic's blog][prismic-blog].
 
